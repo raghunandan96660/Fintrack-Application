@@ -1,0 +1,8 @@
+aws_account_id = "123456789012"
+aws_region     = "us-east-1"
+project_name   = "fintrack"
+environment    = "dev"
+owner          = "icastanon"
+operations_notification_email = "you@example.com"
+github_repository_owner_id = "YOUR_GITHUB_OWNER_ID"
+github_repository_id       = "YOUR_GITHUB_REPOSITORY_ID"

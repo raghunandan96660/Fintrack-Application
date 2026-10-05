@@ -1,0 +1,30 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 64 64"
+        role="img"
+        aria-label="FinTrack"
+>
+    <rect width="64" height="64" rx="15" fill="#0b176d" />
+
+    <rect x="13" y="35" width="8" height="15" rx="2" fill="#93c5fd" />
+    <rect x="28" y="27" width="8" height="23" rx="2" fill="#60a5fa" />
+    <rect x="43" y="17" width="8" height="33" rx="2" fill="#ffffff" />
+
+    <path
+            d="M14 28L28 20L37 23L49 12"
+            fill="none"
+            stroke="#ffffff"
+            stroke-width="4"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+    />
+
+    <path
+            d="M42 12H49V19"
+            fill="none"
+            stroke="#ffffff"
+            stroke-width="4"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+    />
+</svg>
